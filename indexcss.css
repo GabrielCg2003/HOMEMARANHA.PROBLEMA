@@ -1,0 +1,28 @@
+body {
+    background-image: url("https://media1.tenor.com/m/CM09abv4iwgAAAAC/problema-quem-disse.gif;");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1 {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+}
+
+.Bemvindo {
+
+    background: none;
+    padding: 0%;
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+
+}
